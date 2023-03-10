@@ -8,6 +8,7 @@
 body {
     margin-left:5%;
     margin-right:5%;
+    background-color:rgb(216, 216, 216)
 }
 
 .shadow {
@@ -27,11 +28,13 @@ body {
 }
 .yellow-label {
     display:block;
-    background-color: rgb(255, 159, 33);
+    background-color: rgb(255, 191, 0);
+    font-weight: bold;
     width: auto;height: auto;
     padding:7px;margin:7px;
     font-size: 12px; border-radius: 5px;
     color:white;
+    padding:10px;
 }
 .grid {
     display: grid; 
